@@ -1,3 +1,5 @@
+![GitHub followers](https://img.shields.io/github/followers/isabel2600?style=social)
+![GitHub repo size](https://img.shields.io/github/repo-size/isabel.2600/tentando)
 # tentando
 tentando.com
 #apredendo
